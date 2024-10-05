@@ -11,7 +11,7 @@ Hello! I'm Gurleen Kaur, a student at [Guru Nanak Dev Engineering College (GNDEC
 - **Degree:** Bachelor of Technology (BTech)
 - **Field of Study:** Information Technology(IT)
 
-## Languages I know:
+### Languages I know:
 - **Python
 - **C++
 - **HTML
