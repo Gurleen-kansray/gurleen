@@ -11,6 +11,13 @@ Hello! I'm Gurleen Kaur, a student at [Guru Nanak Dev Engineering College (GNDEC
 - **Degree:** Bachelor of Technology (BTech)
 - **Field of Study:** Information Technology(IT)
 
+## Languages I know:
+- **Python
+- **C++
+- **HTML
+- **CSS
+- **Javascript
+  
 ### 💡 Interests
 - **Open Source Contribution:** Actively seeking opportunities to contribute to open-source projects and collaborate with fellow developers.
 - **Web Development:** Passionate about creating user-friendly websites and applications using HTML, CSS, JavaScript, and frameworks like React and Bootstrap.
