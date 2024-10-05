@@ -12,11 +12,11 @@ Hello! I'm Gurleen Kaur, a student at [Guru Nanak Dev Engineering College (GNDEC
 - **Field of Study:** Information Technology(IT)
 
 ### Languages I know:
-- **Python
-- **C++
-- **HTML
-- **CSS
-- **Javascript
+- **Python**
+- **C++**
+- **HTML**
+- **CSS**
+- **Javascript**
   
 ### 💡 Interests
 - **Open Source Contribution:** Actively seeking opportunities to contribute to open-source projects and collaborate with fellow developers.
